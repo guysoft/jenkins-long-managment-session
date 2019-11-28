@@ -1,2 +1,2 @@
-# jenkins-long-managment-session
-Jenkisn docker builder, with long managment session
+# rabbitmq-long-managment-session
+rabbitmq docker builder, with long managment session
